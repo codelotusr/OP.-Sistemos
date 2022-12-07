@@ -1,0 +1,12 @@
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                         SALARY
+----------- -------------------- ------------------------- ------------------------- ----------
+        133 Jason                Mallin                    JMALLIN                         3300
+        134 Michael              Rogers                    MROGERS                         2900
+        135 Ki                   Gee                       KGEE                            2400
+        136 Hazel                Philtanker                HPHILTAN                        2200
+        137 Renske               Ladwig                    RLADWIG                         3600
+        138 Stephen              Stiles                    SSTILES                         3200
+        139 John                 Seo                       JSEO                            2700
+        140 Joshua               Patel                     JPATEL                          2500
+        141 Trenna               Rajs                      TRAJS                           3500
+        142 Curtis               Davies                    CDAVIES                         3100
