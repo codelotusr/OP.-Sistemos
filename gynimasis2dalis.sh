@@ -31,7 +31,7 @@ then
                     awk -F: '$1 ~ /Savage/ {print $1, $2}' info.txt
                     break;;
                 3)
-                    sed 's/=//g' lines.txt > lines_e.txt
+                    sed 's/=//g' lines.txt | grep "\S" > lines_e.txt
                     sed -i 's/Jon/Jonathan/g' lines_e.txt
                     sed -n '10,$p' lines_e.txt
                     sed -i '/MA/d' lines_e.txt
